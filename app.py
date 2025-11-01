@@ -1,5 +1,5 @@
 import streamlit as st
-#from docxtpl import DocxTemplate # Import DocxTemplate
+from docxtpl import DocxTemplate # Import DocxTemplate
 from docx2pdf import convert
 import tempfile
 import datetime
